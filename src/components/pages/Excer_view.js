@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Table,Button } from "react-bootstrap";
-import { Link,Redirect } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import axios from "axios";
 
 class Excer extends Component {
